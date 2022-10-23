@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* Header and nav sections */
 header {
     padding: 20px;
@@ -40,16 +41,18 @@ nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
 /* anchor styling */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph styling */
 p {
     font-size: 16px;
 }
-
+/* hero banner */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* images box styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +73,14 @@ p {
     margin-left: 25px;
 }
 
+/* main content box formatting */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* aside container containing site benefits and descriptions */
 .benefits-container {
     margin-right: 20px;
     padding: 20px;
@@ -97,6 +103,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 /* Consolidated CSS image styling for benefits section*/
 .benefits img {
     display: block;
@@ -125,6 +132,7 @@ p {
     font-size: 36px;
 }
 
+/* footer section */
 footer {
     padding: 30px;
     clear: both;
