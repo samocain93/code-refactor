@@ -1,9 +1,10 @@
+/* universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* body styling */
 body {
     background-color: #d9dcd6;
 }
